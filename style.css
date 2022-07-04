@@ -1,0 +1,57 @@
+body{
+    font-family: 'Signika', sans-serif;
+    margin: 0;
+}
+    h1{
+        
+        font-size: 60px;
+    }
+section{
+    display: flex;
+
+}
+.helf-with{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 50px;
+}
+.helf-with img{
+    width: 80%;
+}
+.orange{
+    color: blueviolet;
+    font-family: 'Lobster', cursive;
+    font-weight: 700;
+}
+.link{
+    color: aliceblue;
+    background-image: linear-gradient(blue, tomato);
+    padding: 10px 30px;
+    border-radius: 10px; 
+    text-decoration: none;
+}
+.top-benner{
+    background-image: url(cer1.png);
+    background-repeat: no-repeat;
+    
+}
+.theard-section{
+    width: 30%;
+    border-top: 10px solid blue;
+    margin-left: 4%;
+    margin-right: 4%;
+    box-shadow: 10px 10px 30px gray;  
+}
+.theard-section img{
+    width: 50%;
+    padding-left: 20%;
+} 
+#headline{
+    background-color: blue;
+    text-align: center;
+    padding: 0;
+    margin-top: 0;
+    color: aliceblue;
+
+
+}
