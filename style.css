@@ -29,6 +29,8 @@ section{
     padding: 10px 30px;
     border-radius: 10px; 
     text-decoration: none;
+    box-shadow: 10px 10px 30px rgb(56, 34, 34);
+    margin: 20px 20px;
 }
 .top-benner{
     background-image: url(cer1.png);
@@ -41,6 +43,8 @@ section{
     margin-left: 4%;
     margin-right: 4%;
     box-shadow: 10px 10px 30px gray;  
+    padding-bottom: 5px; 
+    margin-bottom: 20px;  
 }
 .theard-section img{
     width: 50%;
@@ -52,6 +56,14 @@ section{
     padding: 0;
     margin-top: 0;
     color: aliceblue;
-
-
+}
+footer{
+    text-align: center;
+    margin: 30px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
 }
